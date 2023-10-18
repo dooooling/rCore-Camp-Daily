@@ -21,3 +21,7 @@
 
 tips
     risc-v 没有栈操作指令 （push pop）
+
+### （2023-10-17）周二
+学习 risc-v 架构内容
+- risc-v 特权架构
