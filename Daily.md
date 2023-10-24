@@ -45,3 +45,11 @@ tips
     - release 下优化等级会导致clion部分断点无效。尝试调整 opt-level 得到解决。
     - rust文件可以正常调试，无法调试汇编文件，gdb提示 **no such file :\*\***
 - 学习使用xtask构建项目。
+
+### （2023-10-23）周一
+- 开始正式学习 rCore-Tutorial-Book
+- 了解SBI 以及 ABI 标准及相关规范，查询了解了一下grub uefi sbi的大致区别。
+- 编写运行 基于rust的第一个riscv裸机程序。
+
+
+
