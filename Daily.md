@@ -84,6 +84,8 @@ tips
 -  查阅关于 **stride** 调度算法的相关知识，有了新的理解。
 [(资料)](https://nankai.gitbook.io/ucore-os-on-risc-v64/lab6/tiao-du-suan-fa-kuang-jia#stride-suan-fa)
 -  完成lab4相关实验
+    -  查阅了一些关于 [virtio-drivers
+](https://github.com/rcore-os/virtio-drivers)的知识，后续好好学习一下。
     -  学习文件系统与文件描述符相关知识
     -  了解学习 easy-fs 文件系统。
 -  文件系统相关知识需要再抽空复习一下
